@@ -12,8 +12,8 @@
 
     "repository": "https://github.com/Captain-America-X/TG-RENAMER-BOT-1",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "https://t.me/Captain_America_X",
+    "success_url": "http://t.me/svmmleech2robot",
 
     "env": {
         "API_HASH": {
